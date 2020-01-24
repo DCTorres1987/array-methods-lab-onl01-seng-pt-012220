@@ -23,5 +23,6 @@ array.last
 end
 
 def using_size(array)
-
+array = ["I","wow","arrays!","Bee","apple","am"]
+array.size
 end
